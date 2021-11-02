@@ -1,2 +1,2 @@
-# banking-transaction-algorithm
+# ALGORITHM OF BANKING TRANSACTION
 Practical design in C#
